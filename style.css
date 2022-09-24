@@ -1,0 +1,18 @@
+.img_face{
+  width: 150px;
+  position: absolute;
+  left: 20%;
+  top:6%;
+  height: 150px;
+  float: left;
+  border: transparent thin solid;
+  padding: 50px;
+  margin: 0px 10px 10px 0;
+  max-width: 50px;
+}
+main{
+  font-size: 17px;
+  transform: translate()
+}
+
+/*width = "150" heigth = "150" ALIGN="RIGHT" margin="top"
